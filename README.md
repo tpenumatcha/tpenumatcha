@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently a Computer Science and Statistics student at UNC Chapel Hill
+
+
 <!--
 **tpenumatcha/tpenumatcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
