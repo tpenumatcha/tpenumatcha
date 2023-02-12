@@ -7,7 +7,7 @@ Improving my knowledge of various data structures and algorithms<br>
 Learning more about software system fundamentals with C/C++
 
 ### 📫 How to reach me: ...
-    Emails: teerthap@hotmail.com or tpenumatcha@unc.edu
+Emails: teerthap@hotmail.com or tpenumatcha@unc.edu
 
 
 <!--
