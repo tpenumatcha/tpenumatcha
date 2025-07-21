@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-I'm currently a Computer Science and Statistics student at UNC Chapel Hill. I'm passionate about Software Engineering, Data Science, and solving problems through code. I have experience in Python, Java, JavaScript, and Machine Learning. I'm eager to expand my knowledge in the field of Computer Science. Feel Free to reach out!
+I'm currently a Software Engineer at Instagram. I'm passionate about Software Engineering, Data Science, and solving problems through code. I have experience in Python, Java, Kotlin, JavaScript, and Machine Learning. I'm eager to expand my knowledge in the field of Computer Science. Feel Free to reach out!
+
+🔭 I’m currently working on Android development📱 at Instagram/Meta
 
 ### 📫 How to reach me: ...
-Emails: teerthap@hotmail.com or tpenumatcha@unc.edu
+Emails: teerthap@hotmail.com
 
 
 <!--
